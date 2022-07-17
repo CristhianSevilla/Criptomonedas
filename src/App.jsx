@@ -20,7 +20,10 @@ const Contenedor = styled.div`
 const Imagen = styled.img`
   max-width: 600px;
   width: 90%;
+  margin: 30px auto 0 auto;
+  @media (min-width: 760px) {
   margin: 100px auto 0 auto;
+  }
   display: block;
 
 `

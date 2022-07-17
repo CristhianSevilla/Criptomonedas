@@ -16,6 +16,7 @@ font-size: 20px;
 border-radius: .5rem;
 margin-top: 30px;
 transition: background-color .3s ease;
+margin-bottom: 30px;
 
 &:hover{
     background-color: #490066;
